@@ -3,7 +3,6 @@
 Assignment aim : Behavioral context recognition in-the-wild from mobile sensors
 
 Dataset credits : This dataset was collected in 2015-2016 by Yonatan Vaizman and Katherine Ellis with the supervision of professor Gert Lanckriet.
-
 Department of Electrical and Computer Engineering, University of California, San Diego.
 
 Original publication: "Recognizing Detailed Human Context In-the-Wild from Smartphones and Smartwatches". 
